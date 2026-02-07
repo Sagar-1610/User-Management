@@ -29,7 +29,7 @@ export interface User {
 }
 
 
-const API_URL = 'http://localhost:5000/users';
+const API_URL = 'https://user-management-7838.onrender.com/users';
 
 
 
