@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Amit",
+      "lastName": "Sharma",
+      "phone": "9876543210",
+      "email": "amit.sharma@gmail.com",
+      "createdAt": "2025-02-01T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "firstName": "Priya",
+      "lastName": "Verma",
+      "phone": "9123456789",
+      "email": "priya.verma@gmail.com",
+      "createdAt": "2025-02-02T14:15:00Z"
+    },
+    {
+      "id": "28ca",
+      "firstName": "new ab",
+      "lastName": "tesrtyfdfgh",
+      "phone": "9876500000",
+      "email": "biswakoma88l@yopmail.com"
+    }
+  ]
+}
