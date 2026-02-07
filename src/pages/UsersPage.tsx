@@ -149,7 +149,7 @@ export const UsersPage = () => {
         onSubmit={handleSubmit}
       />
 
-      <Dialog open={deleteOpen} onClose={() => setDeleteOpen(false)}>
+      <Dialog open={deleteOpen} onClose={() => setDeleteOpen(false)} >
         <DialogTitle>Confirm Delete</DialogTitle>
         <DialogContent>Are you sure?</DialogContent>
         <DialogActions>
