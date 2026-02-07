@@ -11,7 +11,7 @@ import {
   Typography,
 } from '@mui/material';
 import { Edit, Trash2 } from 'lucide-react';
-import { User } from '../types/user';
+
 
 interface UsersTableProps {
   users: User[];
